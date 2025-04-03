@@ -1,6 +1,6 @@
 # 🤖 B2B Chatbot  
 
-Um chatbot inteligente para empresas B2B, projetado para automatizar interações, responder dúvidas e agilizar processos comerciais. Integrável com CRMs, ERPs e outras plataformas corporativas, proporcionando uma experiência eficiente para clientes e parceiros.  
+Um chatbot inteligente para empresas B2B, projetado para automatizar interações, responder dúvidas e agilizar processos comerciais. Integrável com CRMs, ERPs e outras plataformas corporativas, proporcionando uma experiência para clientes e parceiros.  
 
 ## ✨ Funcionalidades  
 - 📌 **Atendimento automatizado 24/7**  
