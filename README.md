@@ -10,7 +10,7 @@ Um chatbot inteligente para empresas B2B, projetado para automatizar interaçõe
 - ⚡ **API para integração fácil com outros serviços**  
 
 ## 🚀 Tecnologias  
-- **.NET 8.0**  
+- **.NET 9.0**  
 - **C#**  
 - **Dapper** 
 - **Bancos de dados SQL**  
