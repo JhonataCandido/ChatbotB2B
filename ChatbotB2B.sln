@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatbotB2B", "ChatbotB2B\ChatbotB2B.csproj", "{B1359D2F-AB87-439F-BF6F-CEC1D8E17841}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infraestructure", "Infraestructure\Infraestructure.csproj", "{D37A87D7-B0AA-4349-96E4-94A783678C0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{357E381E-FD7E-4959-B9A9-7809FCCB3FC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{6D6C753B-36FF-4112-871E-C0DD37C5E124}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1359D2F-AB87-439F-BF6F-CEC1D8E17841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1359D2F-AB87-439F-BF6F-CEC1D8E17841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1359D2F-AB87-439F-BF6F-CEC1D8E17841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1359D2F-AB87-439F-BF6F-CEC1D8E17841}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D37A87D7-B0AA-4349-96E4-94A783678C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D37A87D7-B0AA-4349-96E4-94A783678C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D37A87D7-B0AA-4349-96E4-94A783678C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D37A87D7-B0AA-4349-96E4-94A783678C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{357E381E-FD7E-4959-B9A9-7809FCCB3FC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{357E381E-FD7E-4959-B9A9-7809FCCB3FC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{357E381E-FD7E-4959-B9A9-7809FCCB3FC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{357E381E-FD7E-4959-B9A9-7809FCCB3FC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D6C753B-36FF-4112-871E-C0DD37C5E124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D6C753B-36FF-4112-871E-C0DD37C5E124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D6C753B-36FF-4112-871E-C0DD37C5E124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D6C753B-36FF-4112-871E-C0DD37C5E124}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
